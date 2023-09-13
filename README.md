@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">A Software Developer passionate about studying artificial intelligence systems, neural networks, machine learning and mobile application development</h3>
 
+- 🌍 I'm based in Assisi, Italy
 
 - 🔭 I’m currently working in [Micra](https://www.micra.it/)
-
-- 🌍 I'm based in Assisi, Italy
 
 - 🖥️ See my [website](https://aledom97.github.io/AlexDominici.github.io/)
 
